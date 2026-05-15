@@ -1,0 +1,3 @@
+[submodule "bhlib"]
+	path = bhlib
+	url = https://github.com/bdlib/bhlib.git
